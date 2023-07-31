@@ -1,0 +1,136 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Putin will not attend Brics summit - South African presidency",
+      "description": "The announcement ends months of speculation over the Russian president's planned visit.",
+      "url": "http://www.bbc.co.uk/news/world-africa-66247067",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3914/production/_130421641_6a5c18c884fbdbe8dfd38d14e93ff58bafbc35d8.jpg",
+      "publishedAt": "2023-07-19T12:52:16.5657439Z",
+      "content": "Russia's president will not attend a summit in South Africa next month, according to the country's presidency.\r\nThe announcement comes after South Africa's leader said any attempt to arrest Vladimir … [+1628 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Disaffected Russians spying for UK, says MI6 head",
+      "description": "Many are silently appalled to see Russian forces pulverising Ukrainian cities, Sir Richard Moore says.",
+      "url": "http://www.bbc.co.uk/news/uk-66243806",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/174AA/production/_130420459_7428d6af9814c3209154f58c5a08ec913497f1630_0_2944_19631000x667.jpg",
+      "publishedAt": "2023-07-19T12:07:22.6922765Z",
+      "content": "MI6 has recruited a number of Russians disaffected by the Ukraine war, its chief has revealed, as he appealed for more to defect and work with them.\r\nIn a speech in Prague, Sir Richard Moore said man… [+3266 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Barbie reviews: What do critics make of the Margot Robbie film?",
+      "description": "One review calls the film \"painfully funny\", but another describes it as \"uneven and disjointed\".",
+      "url": "http://www.bbc.co.uk/news/entertainment-arts-66242100",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ECAF/production/_130419506_cr2rev-1-bar-00822_high_res_jpeg-1.jpg",
+      "publishedAt": "2023-07-19T12:07:18.5497425Z",
+      "content": "Life in plastic is mostly fantastic according to many critics, who have broadly praised the Barbie movie.\r\nThe much-publicised film is released this Friday - opposite Christopher Nolan's Oppenheimer … [+6352 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Migrant girl death in US custody was \"preventable\"",
+      "description": "Girl, 8, died after a \"series of failures\" by US border agents, an independent report concludes.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-66244304",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0C8C/production/_130421230_gettyimages-1498477599.jpg",
+      "publishedAt": "2023-07-19T11:07:22.2223316Z",
+      "content": "The death of an eight-year-old migrant girl in US border custody has been called \"a preventable tragedy\" by an independent report.\r\nAnadith Tanay Reyes Alvarez died in hospital on 17 May after she fe… [+2756 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Travis King: US soldier in N Korea was jailed for fights in Seoul",
+      "description": "He spent time in a detention facility after getting into fights and hitting a police car in Seoul.",
+      "url": "http://www.bbc.co.uk/news/world-asia-66219603",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11366/production/_130420507_whatsappimage2023-07-19at5.05.26pm.jpg",
+      "publishedAt": "2023-07-19T10:22:15.3312921Z",
+      "content": "Travis King, the American soldier who fled to North Korea, had been jailed for assault in South Korea prior to crossing the border.\r\nCourt documents showed he had been embroiled in fights and hit a p… [+2547 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Ukraine war: Crimea depot blasts force villagers to flee",
+      "description": "More than 2,000 people are evacuated in an incident that closes a key highway in occupied Crimea.",
+      "url": "http://www.bbc.co.uk/news/world-europe-66242446",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1429F/production/_130419528_e535e67ea63295e11b6411a253b4a033e8ef264e6_0_2369_13341000x563.jpg",
+      "publishedAt": "2023-07-19T08:22:18.0976133Z",
+      "content": "More than 2,000 residents are being evacuated from four villages in Russian-occupied Crimea after a fire that triggered hours of explosions at a nearby ammunition depot.\r\nRussian-installed officials … [+1970 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Travis King: What we know so far about North Korea's detention of a US soldier",
+      "description": "A soldier who crossed the border from South Korea was reportedly facing disciplinary action.",
+      "url": "http://www.bbc.co.uk/news/world-asia-66240928",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/172FB/production/_130417949_acfd03a36758e6a8f74be033c88cc76647f3151b0_109_5616_31591000x563.jpg",
+      "publishedAt": "2023-07-19T06:52:21.1756823Z",
+      "content": "A US soldier is being held in North Korea after crossing the border from South Korea without authorisation, the US military has confirmed.\r\nThe crisis comes during a particularly tense time with the … [+3634 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Michigan attorney general files charges in fake elector scheme",
+      "description": "Sixteen people have been charged for alleged efforts to reverse Joe Biden 2020 election win.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-66239857",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+      "publishedAt": "2023-07-18T21:22:20.4492603Z",
+      "content": "Michigan's attorney general has announced charges against 16 people for their role in an alleged false electors scheme after the 2020 election. \r\nUS presidents are technically elected by slates of el… [+756 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Tupac Shakur: Police search house over 1996 killing",
+      "description": "Nevada police search a Las Vegas home as part of an investigation into the rapper's 1996 killing.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-66240750",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C973/production/_130417515_gettyimages-883992172.jpg",
+      "publishedAt": "2023-07-18T21:22:18.4560211Z",
+      "content": "Police in Nevada have confirmed they served a search warrant this week in connection with the unsolved killing of rapper Tupac Shakur.\r\nDetectives carried out the search at a home in Henderson, a sub… [+1304 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Heatwave hits homeless: ‘I cry all the time'",
+      "description": "Unhoused people reportedly make up half of all heat-associated deaths in the United States.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-66239388",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1485D/production/_130416048_p0g1l601.jpg",
+      "publishedAt": "2023-07-18T16:37:21.850049Z",
+      "content": "Phoenix, Arizona, a desert city known for intense temperatures, is breaking records this year for its prolonged stretch of extreme heat.\r\nThe weather does not impact everyone the same and unhoused pe… [+79 chars]"
+    }
+  ]
+}
